@@ -1,52 +1,49 @@
-# Project Title
+# Inlämning laboration 1
 
-Simple overview of use/purpose.
+Jag lämnar in genom att ange en länk till mitt GitHub-repo. Mitt repo skall vara publikt för att Robin skall ha åtjomst till det.
+
+Jag fortsätter från uppgift 1 men kopplar på GIT och har minst 3 commits i min historik och två olika bransches.
+
+All kod och annan dokumentation skall finnas i mitt repository.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Python program med chat-funktion och server kopplat till mongodb
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Lokal och/eller mongodb atlas inloggningsuppgifter
+* mongodb
+* python 3.1x
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Python & pymongo
+* Kod från detta git repo
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Exekvera sererprogram
+* Notera om det kommer något felmeddelande om modul i python som saknas - installera denna/dessa - kör igen
+* Exekvera klientprogram
+* Notera ev.  felmeddelanden - installera - kör igen
+  
+* Kör ytterligare en klient (för att kunna chatta)
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* Notera gärna förbättringsförslag och skicka dessa till mig :)
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Skrivet av undertecknad...
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* 0.1 Första prototyp justering klient inloggningsruta
+
 
 ## License
 
